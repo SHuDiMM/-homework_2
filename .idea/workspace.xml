@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6961cf59-cfd4-4385-b151-7cf23acdf936" name="Changes" comment="module 5.2. 23.11.2024">
-      <change afterPath="$PROJECT_DIR$/module_5_3.py" afterDir="false" />
+    <list default="true" id="6961cf59-cfd4-4385-b151-7cf23acdf936" name="Changes" comment="module 5.3. 25.11.2024">
+      <change afterPath="$PROJECT_DIR$/module_5_4.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,19 +44,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.02_snowflake.executor&quot;: &quot;Run&quot;,
-    &quot;Python.05_builtin.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Work.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;Python.module_5_1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.module_5_2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.module_5_3.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.02_snowflake.executor": "Run",
+    "Python.05_builtin.executor": "Run",
+    "Python.Work.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.module_5_1.executor": "Run",
+    "Python.module_5_2.executor": "Run",
+    "Python.module_5_3.executor": "Run",
+    "Python.module_5_4.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="pythonProject3" />
@@ -121,12 +122,21 @@
       <option name="project" value="LOCAL" />
       <updated>1732349016436</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="module 5.3. 25.11.2024">
+      <option name="closed" value="true" />
+      <created>1732504510783</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1732504510783</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="module 4.2. 18.11.2024" />
     <MESSAGE value="module 5.2. 23.11.2024" />
-    <option name="LAST_COMMIT_MESSAGE" value="module 5.2. 23.11.2024" />
+    <MESSAGE value="module 5.3. 25.11.2024" />
+    <option name="LAST_COMMIT_MESSAGE" value="module 5.3. 25.11.2024" />
   </component>
 </project>
