@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6961cf59-cfd4-4385-b151-7cf23acdf936" name="Changes" comment="module 5.3. 25.11.2024">
-      <change afterPath="$PROJECT_DIR$/module_5_4.py" afterDir="false" />
+    <list default="true" id="6961cf59-cfd4-4385-b151-7cf23acdf936" name="Changes" comment="module 6.1. 04.12.2024">
+      <change afterPath="$PROJECT_DIR$/module_5_hard.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module_5_practice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module_6_2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,21 +46,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.02_snowflake.executor": "Run",
-    "Python.05_builtin.executor": "Run",
-    "Python.Work.executor": "Run",
-    "Python.main.executor": "Run",
-    "Python.module_5_1.executor": "Run",
-    "Python.module_5_2.executor": "Run",
-    "Python.module_5_3.executor": "Run",
-    "Python.module_5_4.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.01_objects_and_classes.executor&quot;: &quot;Run&quot;,
+    &quot;Python.02_attrs_and_methods.executor&quot;: &quot;Run&quot;,
+    &quot;Python.02_snowflake.executor&quot;: &quot;Run&quot;,
+    &quot;Python.04_special_methods.executor&quot;: &quot;Run&quot;,
+    &quot;Python.05_builtin.executor&quot;: &quot;Run&quot;,
+    &quot;Python.06_class_attrs.executor&quot;: &quot;Run&quot;,
+    &quot;Python.07_class_namespace.executor&quot;: &quot;Run&quot;,
+    &quot;Python.08_practice.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Work.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_5_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_5_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_5_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_5_4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_5_hard.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_5_practice.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_6_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_6_2.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;
   }
-}]]></component>
-  <component name="RunManager">
+}</component>
+  <component name="RunManager" selected="Python.main">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="pythonProject3" />
       <option name="ENV_FILES" value="" />
@@ -81,6 +93,56 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="module_5_practice" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject3" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/module_5_practice.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="module_6_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject3" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/module_6_1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.module_6_1" />
+        <item itemvalue="Python.module_5_practice" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -130,13 +192,31 @@
       <option name="project" value="LOCAL" />
       <updated>1732504510783</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="module 5.4. 28.11.2024">
+      <option name="closed" value="true" />
+      <created>1732804233449</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1732804233449</updated>
+    </task>
+    <task id="LOCAL-00006" summary="module 6.1. 04.12.2024">
+      <option name="closed" value="true" />
+      <created>1733274831314</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1733274831314</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="module 4.2. 18.11.2024" />
     <MESSAGE value="module 5.2. 23.11.2024" />
     <MESSAGE value="module 5.3. 25.11.2024" />
-    <option name="LAST_COMMIT_MESSAGE" value="module 5.3. 25.11.2024" />
+    <MESSAGE value="module 5.4. 28.11.2024" />
+    <MESSAGE value="module 6.1. 04.12.2024" />
+    <option name="LAST_COMMIT_MESSAGE" value="module 6.1. 04.12.2024" />
   </component>
 </project>
