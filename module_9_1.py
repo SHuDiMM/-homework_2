@@ -1,4 +1,7 @@
 def apply_all_func(int_list, *functions):
+    if not isinstance(int_list, list):
+        raise TypeError(f"Функция работает только со списками, такова судьба")
+
     for i in int_list:
         if not isinstance(i, (int, float)):
             raise TypeError(f"В списке некорректный тип данных: {i} (нужны только числа)")
